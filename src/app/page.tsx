@@ -1,6 +1,13 @@
+'use client';
+
+import * as React from 'react';
+
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-24">
-    </main>
+    <>
+      <div className="">
+        <div className="mx-auto max-w-7xl px-4 sm:px-6 md:px-8"></div>
+      </div>
+    </>
   );
 }
